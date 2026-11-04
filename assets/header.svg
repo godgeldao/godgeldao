@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Godgel Dao">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="16" fill="url(#grid)"/>
+  <rect width="1200" height="280" rx="16" fill="url(#glow)"/>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+    <text x="72" y="92" fill="#a5b4fc" font-size="16" font-weight="600" letter-spacing="4">HIGHLEVEL CERTIFIED ADMIN</text>
+    <text x="70" y="156" fill="#ffffff" font-size="60" font-weight="700">Godgel Dao</text>
+    <rect x="72" y="176" width="120" height="4" rx="2" fill="url(#accent)"/>
+    <text x="72" y="222" fill="#cbd5e1" font-size="22">GoHighLevel Expert  •  AI Voice &amp; Chat Agents  •  Automation Developer</text>
+  </g>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">
+    <g transform="translate(880,96)">
+      <rect width="130" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+      <text x="65" y="22" text-anchor="middle">GoHighLevel</text>
+    </g>
+    <g transform="translate(1022,96)">
+      <rect width="110" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+      <text x="55" y="22" text-anchor="middle">AI Agents</text>
+    </g>
+    <g transform="translate(880,142)">
+      <rect width="80" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+      <text x="40" y="22" text-anchor="middle">n8n</text>
+    </g>
+    <g transform="translate(972,142)">
+      <rect width="76" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+      <text x="38" y="22" text-anchor="middle">Make</text>
+    </g>
+    <g transform="translate(1060,142)">
+      <rect width="72" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+      <text x="36" y="22" text-anchor="middle">Zapier</text>
+    </g>
+  </g>
+</svg>
