@@ -70,6 +70,44 @@ I build GoHighLevel systems that capture leads, follow up automatically, and boo
 
 <br/>
 
+## Client Testimonials
+
+<sub>Real messages from clients I've delivered for. Original screenshots are on my <a href="https://godgeldao-portfolio.vercel.app/">portfolio</a>.</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <i>"The Emergency care page looks amazing."</i><br/><br/>
+      <sub><b>Thomas Zeller</b> &nbsp;|&nbsp; Client &nbsp;|&nbsp; 2025</sub>
+    </td>
+    <td width="50%" valign="top">
+      <i>"Let's close this out and revisit it if we need to bring it back to life for something AI-related! All good!"</i><br/><br/>
+      <sub><b>Ron Graziano</b> &nbsp;|&nbsp; Client &nbsp;|&nbsp; Sep 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <i>"This looks great! Thank you. I'll take a deeper look and see if there are any revisions."</i><br/><br/>
+      <sub><b>Steven Josh Hightower Jr.</b> &nbsp;|&nbsp; Client &nbsp;|&nbsp; Dec 2025</sub>
+    </td>
+    <td width="50%" valign="top">
+      <i>"Excellent. Perfect. Kindly go ahead and mark complete."</i><br/><br/>
+      <sub><b>Gautam Vij</b> &nbsp;|&nbsp; Client &nbsp;|&nbsp; Aug 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <i>"All approved. Thank you!"</i><br/><br/>
+      <sub><b>Ron Friedman</b> &nbsp;|&nbsp; Client &nbsp;|&nbsp; Aug 2025</sub>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <a href="https://godgeldao-portfolio.vercel.app/"><b>See all testimonials &rarr;</b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## Tech Stack
 
 <p>
