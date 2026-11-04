@@ -1,47 +1,96 @@
-<h1 align="center">Hi, I'm Godgel Dao 👋</h1>
-<h3 align="center">HighLevel Certified Admin · GoHighLevel (GHL) Expert · AI Voice & Chat Agents · Automation Developer</h3>
-
 <p align="center">
-  <a href="https://godgeldao-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🚀_View_My_Portfolio-godgeldao--portfolio.vercel.app-7c3aed?style=for-the-badge" alt="View my portfolio"/></a>
+  <img src="assets/header.svg" width="100%" alt="Godgel Dao | HighLevel Certified Admin, GoHighLevel Expert, AI Voice & Chat Agents, Automation Developer"/>
 </p>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~011a2dd27005d455c9"><img src="https://img.shields.io/badge/Hire_me_on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork"/></a>
+  <a href="https://godgeldao-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-godgeldao--portfolio.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/~011a2dd27005d455c9"><img src="https://img.shields.io/badge/Hire%20Me-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0f172a" alt="Hire me on Upwork"/></a>
 </p>
 
----
+<br/>
 
-### 🧠 What I build
-- **GoHighLevel setup** – sub-accounts, pipelines, calendars, snapshots, SaaS plans, A2P registration
-- **AI voice agents** – GHL Voice AI, Synthflow, VAPI (inbound call handling, outbound appointment setting)
-- **AI chat agents** – GHL Conversation AI, Closebot (qualify leads and book appointments 24/7)
-- **Automations & integrations** – n8n, Make, Zapier, webhooks, APIs, OAuth 2.0
-- **Funnels, websites & landing pages** – custom HTML, CSS, JavaScript
+## About
 
-### ⚡ Featured projects
+I build GoHighLevel systems that capture leads, follow up automatically, and book appointments without manual work. With 6+ years inside the platform and 7 years in digital marketing, I design CRM setups, AI voice and chat agents, and integrations that connect GHL to the rest of a business's tools.
+
+<br/>
+
+## Services
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>GoHighLevel Setup</b><br/>
+      <sub>Sub-accounts, pipelines, calendars, snapshots, SaaS plans, billing, A2P 10DLC registration</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>AI Voice Agents</b><br/>
+      <sub>GHL Voice AI, Synthflow, VAPI for inbound call handling and outbound appointment setting</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>AI Chat Agents</b><br/>
+      <sub>GHL Conversation AI and Closebot agents that qualify leads and book appointments 24/7</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Automation &amp; Integrations</b><br/>
+      <sub>n8n, Make, Zapier, webhooks, REST APIs, OAuth 2.0</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Funnels &amp; Websites</b><br/>
+      <sub>Landing pages, funnels, and websites with custom HTML, CSS, and JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Email &amp; SMS Campaigns</b><br/>
+      <sub>Nurture sequences, reminders, and re-engagement workflows</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Featured Work
+
 | Project | Stack |
-|---|---|
-| Form submission → fully configured GHL sub-account via OAuth 2.0 | Make, GHL API |
-| GHL ↔ Practice Hub AI appointment booking sync | n8n, REST APIs |
-| Closebot appointment booking agent for a dental practice | Closebot, GHL |
-| GHL Voice AI inbound & outbound appointment setter | GHL Voice AI |
-| Job completion → GHL invoice + real-time Slack updates | Make, Slack, GHL |
-| Year-round holiday nurture campaign (email + SMS) | GHL Workflows |
+|:--|:--|
+| Form submission to fully configured GHL sub-account via OAuth 2.0 | Make, GHL API |
+| GHL to Practice Hub AI appointment booking sync | n8n, REST APIs |
+| AI appointment booking agent for a dental practice | Closebot, GHL |
+| Voice AI inbound and outbound appointment setter | GHL Voice AI |
+| Job completion to GHL invoice with real-time Slack updates | Make, Slack, GHL |
+| Year-round holiday nurture campaign, email and SMS | GHL Workflows |
 
-👉 **See all projects with screenshots: [godgeldao-portfolio.vercel.app](https://godgeldao-portfolio.vercel.app/)**
+<p>
+  <a href="https://godgeldao-portfolio.vercel.app/"><b>View the full portfolio with screenshots &rarr;</b></a>
+</p>
 
-### 🛠️ Tools
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1e88e5?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![Synthflow](https://img.shields.io/badge/Synthflow-111827?style=flat-square)
-![VAPI](https://img.shields.io/badge/VAPI-111827?style=flat-square)
-![Closebot](https://img.shields.io/badge/Closebot-2563eb?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+<br/>
 
-### 📫 Let's work together
-Need your GHL account set up, automated, and booking appointments? **[Start at my portfolio](https://godgeldao-portfolio.vercel.app/)** and book a call.
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/GoHighLevel-0f172a?style=flat-square" alt="GoHighLevel"/>
+  <img src="https://img.shields.io/badge/n8n-0f172a?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Make-0f172a?style=flat-square&logo=make&logoColor=A855F7" alt="Make"/>
+  <img src="https://img.shields.io/badge/Zapier-0f172a?style=flat-square&logo=zapier&logoColor=FF4A00" alt="Zapier"/>
+  <img src="https://img.shields.io/badge/OpenAI-0f172a?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Synthflow-0f172a?style=flat-square" alt="Synthflow"/>
+  <img src="https://img.shields.io/badge/VAPI-0f172a?style=flat-square" alt="VAPI"/>
+  <img src="https://img.shields.io/badge/Closebot-0f172a?style=flat-square" alt="Closebot"/>
+  <img src="https://img.shields.io/badge/Stripe-0f172a?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe"/>
+  <img src="https://img.shields.io/badge/Slack-0f172a?style=flat-square&logo=slack&logoColor=E01E5A" alt="Slack"/>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,figma,github,vercel&theme=dark" alt="Web stack"/>
+</p>
+
+<br/>
+
+## Work Together
+
+Need your GHL account set up, automated, and booking appointments? Start with the <a href="https://godgeldao-portfolio.vercel.app/">portfolio</a> or reach out on <a href="https://www.upwork.com/freelancers/~011a2dd27005d455c9">Upwork</a>.
