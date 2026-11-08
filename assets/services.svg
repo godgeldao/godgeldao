@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="352" viewBox="0 0 880 352" role="img" aria-label="Services">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131a2e"/><stop offset="1" stop-color="#0d1222"/></linearGradient>
+  </defs>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="281" height="167" rx="12" fill="url(#card)" stroke="#273349"/>
+    <rect x="20" y="20" width="40" height="40" rx="10" fill="#8b5cf6" fill-opacity="0.12" stroke="#8b5cf6" stroke-opacity="0.35"/>
+    <g transform="translate(29,29)" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="3.5"/><path d="M11 1.5v3M11 17.5v3M1.5 11h3M17.5 11h3M4.3 4.3l2.1 2.1M15.6 15.6l2.1 2.1M4.3 17.7l2.1-2.1M15.6 6.4l2.1-2.1"/></g>
+    <text x="20" y="86" fill="#f1f5f9" font-size="16" font-weight="600">GoHighLevel Setup</text>
+    <text x="20" y="110" fill="#94a3b8" font-size="12.5">Sub-accounts, pipelines, calendars,</text>
+    <text x="20" y="128" fill="#94a3b8" font-size="12.5">snapshots, SaaS plans, billing, A2P</text>
+    <text x="20" y="146" fill="#94a3b8" font-size="12.5">10DLC</text>
+  <rect x="298.5" y="0.5" width="281" height="167" rx="12" fill="url(#card)" stroke="#273349"/>
+    <rect x="318" y="20" width="40" height="40" rx="10" fill="#8b5cf6" fill-opacity="0.12" stroke="#8b5cf6" stroke-opacity="0.35"/>
+    <g transform="translate(327,29)" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 2h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 11l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 4a2 2 0 0 1 2-2z"/></g>
+    <text x="318" y="86" fill="#f1f5f9" font-size="16" font-weight="600">AI Voice Agents</text>
+    <text x="318" y="110" fill="#94a3b8" font-size="12.5">GHL Voice AI, Synthflow and VAPI for</text>
+    <text x="318" y="128" fill="#94a3b8" font-size="12.5">inbound calls and outbound appointment</text>
+    <text x="318" y="146" fill="#94a3b8" font-size="12.5">setting</text>
+  <rect x="596.5" y="0.5" width="281" height="167" rx="12" fill="url(#card)" stroke="#273349"/>
+    <rect x="616" y="20" width="40" height="40" rx="10" fill="#8b5cf6" fill-opacity="0.12" stroke="#8b5cf6" stroke-opacity="0.35"/>
+    <g transform="translate(625,29)" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 4h16a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H9l-5 4v-4H3a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1z"/><path d="M7 9h8M7 12h5"/></g>
+    <text x="616" y="86" fill="#f1f5f9" font-size="16" font-weight="600">AI Chat Agents</text>
+    <text x="616" y="110" fill="#94a3b8" font-size="12.5">GHL Conversation AI and Closebot</text>
+    <text x="616" y="128" fill="#94a3b8" font-size="12.5">agents that qualify leads and book</text>
+    <text x="616" y="146" fill="#94a3b8" font-size="12.5">24/7</text>
+  <rect x="0.5" y="184.5" width="281" height="167" rx="12" fill="url(#card)" stroke="#273349"/>
+    <rect x="20" y="204" width="40" height="40" rx="10" fill="#8b5cf6" fill-opacity="0.12" stroke="#8b5cf6" stroke-opacity="0.35"/>
+    <g transform="translate(29,213)" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="1.5" y="2" width="7" height="6" rx="1.5"/><rect x="13.5" y="14" width="7" height="6" rx="1.5"/><path d="M5 8v4a2 2 0 0 0 2 2h6.5"/></g>
+    <text x="20" y="270" fill="#f1f5f9" font-size="16" font-weight="600">Automation &amp; Integrations</text>
+    <text x="20" y="294" fill="#94a3b8" font-size="12.5">n8n, Make, Zapier, webhooks, REST APIs</text>
+    <text x="20" y="312" fill="#94a3b8" font-size="12.5">and OAuth 2.0</text>
+  <rect x="298.5" y="184.5" width="281" height="167" rx="12" fill="url(#card)" stroke="#273349"/>
+    <rect x="318" y="204" width="40" height="40" rx="10" fill="#8b5cf6" fill-opacity="0.12" stroke="#8b5cf6" stroke-opacity="0.35"/>
+    <g transform="translate(327,213)" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="1.5" y="3" width="19" height="16" rx="2"/><path d="M1.5 8h19M5 5.5h.01M8 5.5h.01"/></g>
+    <text x="318" y="270" fill="#f1f5f9" font-size="16" font-weight="600">Funnels &amp; Websites</text>
+    <text x="318" y="294" fill="#94a3b8" font-size="12.5">Landing pages, funnels and sites with</text>
+    <text x="318" y="312" fill="#94a3b8" font-size="12.5">custom HTML, CSS and JavaScript</text>
+  <rect x="596.5" y="184.5" width="281" height="167" rx="12" fill="url(#card)" stroke="#273349"/>
+    <rect x="616" y="204" width="40" height="40" rx="10" fill="#8b5cf6" fill-opacity="0.12" stroke="#8b5cf6" stroke-opacity="0.35"/>
+    <g transform="translate(625,213)" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="1.5" y="4" width="19" height="14" rx="2"/><path d="M2 5l9 7 9-7"/></g>
+    <text x="616" y="270" fill="#f1f5f9" font-size="16" font-weight="600">Email &amp; SMS Campaigns</text>
+    <text x="616" y="294" fill="#94a3b8" font-size="12.5">Nurture sequences, reminders and re-</text>
+    <text x="616" y="312" fill="#94a3b8" font-size="12.5">engagement workflows</text>
+  </g>
+</svg>
