@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="110" viewBox="0 0 420 110" role="img" aria-label="HighLevel Certified Admin, issued 2025">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="seal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="418" height="108" rx="14" fill="url(#card)" stroke="url(#edge)" stroke-width="2"/>
+  <g transform="translate(55,55)">
+    <polygon points="0,-36 10,-30 22,-31 27,-20 36,-12 33,0 36,12 27,20 22,31 10,30 0,36 -10,30 -22,31 -27,20 -36,12 -33,0 -36,-12 -27,-20 -22,-31 -10,-30" fill="url(#seal)"/>
+    <circle r="24" fill="#0b1020"/>
+    <circle r="24" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.5"/>
+    <path d="M-11,0 L-3,8 L12,-8" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+    <text x="110" y="38" fill="#a5b4fc" font-size="12" font-weight="700" letter-spacing="3">CERTIFIED</text>
+    <text x="109" y="68" fill="#ffffff" font-size="26" font-weight="700">HighLevel Admin</text>
+    <text x="110" y="90" fill="#94a3b8" font-size="13">GoHighLevel Platform Certification  •  2025</text>
+  </g>
+</svg>
