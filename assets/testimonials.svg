@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="482" viewBox="0 0 880 482" role="img" aria-label="Client testimonials">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131a2e"/><stop offset="1" stop-color="#0d1222"/></linearGradient>
+  </defs>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="431" height="149" rx="12" fill="url(#card)" stroke="#273349"/>
+    <text x="20" y="52" fill="#8b5cf6" font-size="48" font-family="Georgia, serif" opacity="0.6">“</text>
+    <text x="56" y="38" fill="#e2e8f0" font-size="14.5" font-style="italic">The Emergency care page looks amazing.</text>
+    <circle cx="36" cy="118" r="16" fill="#8b5cf6" fill-opacity="0.18" stroke="#8b5cf6" stroke-opacity="0.5"/>
+    <text x="36" y="122.5" fill="#c4b5fd" font-size="12" font-weight="700" text-anchor="middle">TZ</text>
+    <text x="62" y="115" fill="#f1f5f9" font-size="13.5" font-weight="600">Thomas Zeller</text>
+    <text x="62" y="132" fill="#64748b" font-size="12">Client  •  2025</text>
+  <rect x="448.5" y="0.5" width="431" height="149" rx="12" fill="url(#card)" stroke="#273349"/>
+    <text x="468" y="52" fill="#8b5cf6" font-size="48" font-family="Georgia, serif" opacity="0.6">“</text>
+    <text x="504" y="38" fill="#e2e8f0" font-size="14.5" font-style="italic">Let&#x27;s close this out and revisit it if we need to</text>
+    <text x="504" y="59" fill="#e2e8f0" font-size="14.5" font-style="italic">bring it back to life for something AI-related! All</text>
+    <text x="504" y="80" fill="#e2e8f0" font-size="14.5" font-style="italic">good!</text>
+    <circle cx="484" cy="118" r="16" fill="#8b5cf6" fill-opacity="0.18" stroke="#8b5cf6" stroke-opacity="0.5"/>
+    <text x="484" y="122.5" fill="#c4b5fd" font-size="12" font-weight="700" text-anchor="middle">RG</text>
+    <text x="510" y="115" fill="#f1f5f9" font-size="13.5" font-weight="600">Ron Graziano</text>
+    <text x="510" y="132" fill="#64748b" font-size="12">Client  •  Sep 2025</text>
+  <rect x="0.5" y="166.5" width="431" height="149" rx="12" fill="url(#card)" stroke="#273349"/>
+    <text x="20" y="218" fill="#8b5cf6" font-size="48" font-family="Georgia, serif" opacity="0.6">“</text>
+    <text x="56" y="204" fill="#e2e8f0" font-size="14.5" font-style="italic">This looks great! Thank you. I&#x27;ll take a deeper look</text>
+    <text x="56" y="225" fill="#e2e8f0" font-size="14.5" font-style="italic">and see if there are any revisions.</text>
+    <circle cx="36" cy="284" r="16" fill="#8b5cf6" fill-opacity="0.18" stroke="#8b5cf6" stroke-opacity="0.5"/>
+    <text x="36" y="288.5" fill="#c4b5fd" font-size="12" font-weight="700" text-anchor="middle">SJ</text>
+    <text x="62" y="281" fill="#f1f5f9" font-size="13.5" font-weight="600">Steven Josh Hightower Jr.</text>
+    <text x="62" y="298" fill="#64748b" font-size="12">Client  •  Dec 2025</text>
+  <rect x="448.5" y="166.5" width="431" height="149" rx="12" fill="url(#card)" stroke="#273349"/>
+    <text x="468" y="218" fill="#8b5cf6" font-size="48" font-family="Georgia, serif" opacity="0.6">“</text>
+    <text x="504" y="204" fill="#e2e8f0" font-size="14.5" font-style="italic">Excellent. Perfect. Kindly go ahead and mark</text>
+    <text x="504" y="225" fill="#e2e8f0" font-size="14.5" font-style="italic">complete.</text>
+    <circle cx="484" cy="284" r="16" fill="#8b5cf6" fill-opacity="0.18" stroke="#8b5cf6" stroke-opacity="0.5"/>
+    <text x="484" y="288.5" fill="#c4b5fd" font-size="12" font-weight="700" text-anchor="middle">GV</text>
+    <text x="510" y="281" fill="#f1f5f9" font-size="13.5" font-weight="600">Gautam Vij</text>
+    <text x="510" y="298" fill="#64748b" font-size="12">Client  •  Aug 2025</text>
+  <rect x="0.5" y="332.5" width="431" height="149" rx="12" fill="url(#card)" stroke="#273349"/>
+    <text x="20" y="384" fill="#8b5cf6" font-size="48" font-family="Georgia, serif" opacity="0.6">“</text>
+    <text x="56" y="370" fill="#e2e8f0" font-size="14.5" font-style="italic">All approved. Thank you!</text>
+    <circle cx="36" cy="450" r="16" fill="#8b5cf6" fill-opacity="0.18" stroke="#8b5cf6" stroke-opacity="0.5"/>
+    <text x="36" y="454.5" fill="#c4b5fd" font-size="12" font-weight="700" text-anchor="middle">RF</text>
+    <text x="62" y="447" fill="#f1f5f9" font-size="13.5" font-weight="600">Ron Friedman</text>
+    <text x="62" y="464" fill="#64748b" font-size="12">Client  •  Aug 2025</text>
+  <rect x="448.5" y="332.5" width="431" height="149" rx="12" fill="#8b5cf6" fill-opacity="0.08" stroke="#8b5cf6" stroke-opacity="0.45" stroke-dasharray="4 4"/>
+    <text x="664.0" y="400" fill="#f1f5f9" font-size="17" font-weight="600" text-anchor="middle">More client feedback</text>
+    <text x="664.0" y="426" fill="#a5b4fc" font-size="13" text-anchor="middle">Original screenshots on my portfolio  →</text>
+  </g>
+</svg>
