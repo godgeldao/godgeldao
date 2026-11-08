@@ -1,16 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="230" height="56" viewBox="0 0 230 56" role="img" aria-label="View Portfolio">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#7c3aed"/>
-      <stop offset="1" stop-color="#4f46e5"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="228" height="54" rx="12" fill="url(#g)" stroke="#a78bfa" stroke-opacity="0.6"/>
-  <g fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(22,18)">
-    <rect x="0" y="0" width="20" height="20" rx="4"/>
-    <path d="M0 6H20"/>
-    <path d="M5 11H11M5 15H15"/>
-  </g>
-  <text x="54" y="35" fill="#ffffff" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="17" font-weight="600">View Portfolio</text>
-  <path d="M190 28H206M200 22L206 28L200 34" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="56" viewBox="0 0 230 56" role="img" aria-label="View Portfolio"><style>@font-face{font-family:'P';font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAANMAAwAAAAABaAAAAMAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcMAZgAHwKhTiEGgE2AiQDMAsaAAQgBQYHIBsVBAAehU3Z6njly8U8JDOtDvUUPJDe15tJPrgkz0BLqANY3cbv29bfOkMJ1CKRSIm8rUA0y2J3bS9U1Ur/A6haHrypm22dL3iBYzufCrNp4TAKI02zZYHlAV1KNLNcs12RIUtWlOl6tSkCMOOLP6K0vLYlRlQATQMABGAmlniUnqZrz16jk/E30K2rH8JSle6yLTqQ882AmpboTLKoNdnAUOBuX9WyvIGzBDJG9W5aT091iBwBCAAZLU8BAlEBCSiAKwoCcEWlL+COIwp6AmmkNb3px0CGMJyRjNFAzaPXW2ovbI0alUImEQsTgLOCPEEumE4AYYVTGdcBEqFA5KqCPdiMBk+Ds1VVHW02F5vOploHWFu1bdO6l9KyXeuWvx4+JJJmnW3B84mHD4QkM5YxHc2dLZ26/PK0rnuyb1n6KO/1EvL9Zi1br3+cqx66M1srZmGpEYPLJ4Hs2Ymzz+wfMfVAhmrWdYn9R8Nk6uNBb1cIuYPC1Cf/3ww6I806Cx3k1NaSC8XmBQsWJnQ0t29r7mxp1yFkJ3+Le8O8ltuarsS0TfmS/xouoA+laFtqt6E5rUdZF+5Es2EZmd3yr/Qcmdh7+JAbQziiNHVN7Uz06WgqZMaqmqqS9PrA4jUeDXN692icXF4+rVXrsmmTypo3TCwpndhsaYSupjAjtTx/DMWHux1ZfKRgRIFv7xFdRsrRgSMSPLrRe4A9JMQeFvZXlBZFL4zm7qs1WPHR6JZXTmvVqnratPLGxudX83+qnTa9vFnYuOLQiKq0huYtc3MbWzY01LfM5ZNmJmWuCCsuzqtzXRi9sDXvDmu+WwOLRrfdt9NSPKJ43qJ5E0eQ2jx6XdSantN7Tl+7Pmpxt039Nq3ss7HbRgAQgCr0xl/7RNsh949RUd4DeLqxvQTgnXvwDmj/lDLFETAgARBw75OVWgCl7Pq+oFX8BnwF2ZUyeQV22Y8g0Q434U66cKdMTiZYrESZmAkvpRYDArASgA4AgcQfPdATAADQowCAdqhkAA==) format('woff2')}</style><defs><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#131a2e"/><stop offset="1" stop-color="#0d1222"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="0.55" stop-color="#1e1b4b"/><stop offset="1" stop-color="#4c1d95"/></linearGradient>
+<radialGradient id="glow" cx="0.85" cy="0.2" r="0.6"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.35"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05"/></pattern>
+<linearGradient id="btn" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#4f46e5"/></linearGradient></defs><rect x="1" y="1" width="228" height="54" rx="12" fill="url(#btn)" stroke="#a78bfa" stroke-opacity="0.6"/><g fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(22,18)"><rect width="20" height="20" rx="4"/><path d="M0 6H20M5 11H11M5 15H15"/></g><text x="54" y="34.5" font-family="P" font-size="16" font-weight="600" fill="#ffffff" text-anchor="start" letter-spacing="0">View Portfolio</text><path d="M188 28H204M198 22L204 28L198 34" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
