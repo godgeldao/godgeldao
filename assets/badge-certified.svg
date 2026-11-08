@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="56" viewBox="0 0 290 56" role="img" aria-label="HighLevel Certified Admin, 2025">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="288" height="54" rx="12" fill="#0f172a" stroke="url(#edge)" stroke-width="1.5"/>
+  <g transform="translate(32,28)">
+    <polygon points="0,-17 5,-14 10,-15 13,-9 17,-6 15,0 17,6 13,9 10,15 5,14 0,17 -5,14 -10,15 -13,9 -17,6 -15,0 -17,-6 -13,-9 -10,-15 -5,-14" fill="url(#edge)"/>
+    <circle r="11" fill="#0f172a"/>
+    <path d="M-5,0 L-1.5,3.5 L5.5,-3.5" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+    <text x="62" y="24" fill="#a5b4fc" font-size="10" font-weight="700" letter-spacing="2">CERTIFIED  •  2025</text>
+    <text x="62" y="42" fill="#ffffff" font-size="17" font-weight="600">HighLevel Admin</text>
+  </g>
+</svg>
