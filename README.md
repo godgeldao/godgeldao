@@ -8,6 +8,10 @@
   <a href="https://www.upwork.com/freelancers/~011a2dd27005d455c9"><img src="https://img.shields.io/badge/Hire%20Me-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0f172a" alt="Hire me on Upwork"/></a>
 </p>
 
+<p align="center">
+  <img src="assets/certified-admin-badge.svg" width="360" alt="HighLevel Certified Admin, 2025"/>
+</p>
+
 <br/>
 
 ## About
